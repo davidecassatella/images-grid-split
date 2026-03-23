@@ -12,7 +12,23 @@ Funziona bene per storyboard, frame sequence e immagini da preparare per Kling.
 3. Aprilo e trascina l'app in `/Applications`
 4. Doppio clic per avviarla
 
-> **Nota:** al primo avvio macOS potrebbe mostrare un avviso di sicurezza perché l'app non è firmata con un Apple Developer ID. Fai clic destro sull'app → **Apri** → **Apri** per procedere.
+### Primo avvio — avviso di sicurezza macOS
+
+macOS blocca le app non firmate con un Apple Developer ID. È normale.  
+Per aprirla la prima volta hai due opzioni:
+
+**Opzione A — clic destro (più veloce)**
+1. Clicca **Fine** sul messaggio di avviso
+2. Vai in `/Applications`, trova `Images Grid Split.app`
+3. **Clic destro** sull'app → **Apri**
+4. Nella nuova finestra clicca **Apri**
+
+**Opzione B — Impostazioni di Sistema**
+1. **Apple menu** → Impostazioni di Sistema → **Privacy e sicurezza**
+2. Scorri fino a trovare *"Images Grid Split è stata bloccata…"*
+3. Clicca **Apri comunque**
+
+Dopo la prima volta l'app si avvia normalmente con doppio clic.
 
 ---
 
