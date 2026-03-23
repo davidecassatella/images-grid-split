@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+
+# Bundle di sviluppo locale (il .app va distribuito tramite make_dist.sh)
+Images Grid Split.app/
