@@ -18,14 +18,16 @@ macOS blocca le app non firmate con un Apple Developer ID. È normale.
 Per aprirla la prima volta hai due opzioni:
 
 **Opzione A — clic destro (più veloce)**
+
 1. Clicca **Fine** sul messaggio di avviso
 2. Vai in `/Applications`, trova `Images Grid Split.app`
 3. **Clic destro** sull'app → **Apri**
 4. Nella nuova finestra clicca **Apri**
 
 **Opzione B — Impostazioni di Sistema**
+
 1. **Apple menu** → Impostazioni di Sistema → **Privacy e sicurezza**
-2. Scorri fino a trovare *"Images Grid Split è stata bloccata…"*
+2. Scorri fino a trovare _"Images Grid Split è stata bloccata…"_
 3. Clicca **Apri comunque**
 
 Dopo la prima volta l'app si avvia normalmente con doppio clic.
