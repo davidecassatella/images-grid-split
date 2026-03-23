@@ -5,6 +5,17 @@ Funziona bene per storyboard, frame sequence e immagini da preparare per Kling.
 
 ---
 
+## Download (macOS — nessun Python richiesto)
+
+1. Vai su **[Releases](https://github.com/davidecassatella/images-grid-split/releases)**
+2. Scarica `Images.Grid.Split_v1.0.dmg`
+3. Aprilo e trascina l'app in `/Applications`
+4. Doppio clic per avviarla
+
+> **Nota:** al primo avvio macOS potrebbe mostrare un avviso di sicurezza perché l'app non è firmata con un Apple Developer ID. Fai clic destro sull'app → **Apri** → **Apri** per procedere.
+
+---
+
 ## File
 
 | File                | Descrizione                                      |
